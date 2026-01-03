@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+scikit-learn
+gensim
+matplotlib
+jieba
+wordcloud
+python-docx
+PyPDF2
+requests
+openai
+zhipuai
+torch
+Pillow
