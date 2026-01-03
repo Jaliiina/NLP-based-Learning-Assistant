@@ -1,6 +1,6 @@
 # 📚 基于 NLP 的讲义助学工具
 
-> Lecture Assistant · NLP-powered Study Helper
+> Author：Jalina Li、William Chen、jing Xiao
 
 一个面向课程讲义、教材、课件文本的智能助学系统，以 NLP 技术为核心，构建从「文本理解」到「学习辅助生成」的完整助学流程。
 
